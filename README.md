@@ -11,3 +11,5 @@ Merhabalar ben utku,tam 5 yıldır discord'da sunucu projeleri ve bot işleri il
 
   Kodlamayı bırakmamın tek bir sebebi çok fazla sıkılmam,artık arada bir yazmaya başlıyıcağımı düşünüyorum,siteler veya botlar vb. genel de zaten botların ve sitelerin örnekleri var ancak biraz daha farklılık yaratmak ve biraz da olsun yararlanmanızı istiyorum.
 
+* [Sensivity için](https://github.com/Sensivity) açtığım yeni organizasyon'a bakabilirsiniz.
+
