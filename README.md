@@ -13,5 +13,5 @@ Merhabalar ben utku,tam 5 yıldır discord'da sunucu projeleri ve bot işleri il
 
 * [Sensivity için](https://github.com/Sensivity) açtığım yeni organizasyon'a bakabilirsiniz.
 
-![GitHub Logo](nisepanda.png)
+![GitHub Logo](nisepanda.png) ![GitHub Logo](snowfliphearth.png) ![GitHub Logo](uni.png) ![GitHub Logo](turtle.png) ![GitHub Logo](vapyderp.png)
 
